@@ -18,7 +18,7 @@
 
 
 
-### Hello, Dev's 👋
+### Hello  👋
 
 Tenho 27 anos, moro em Recife-PE, sou apaixonada por técnologia e felinos!  Sou aventureira no universo da programação, criadora oficial de bugs, quanto mais eu aprendo e passo raiva... mais eu amo tudo isso! 💙
 
