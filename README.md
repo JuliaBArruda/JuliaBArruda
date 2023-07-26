@@ -3,18 +3,18 @@
 </br>
 </br>
   
- 
- <h1 align="left">Júlia Barbosa</h1>
+ <div  align="center"> 
+ <h1 align="center">Júlia Barbosa</h1>
  <a href="https://www.instagram.com/barbosajulii/">
-    <img align="left" width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
+    <img width="80px" src="https://i.ibb.co/qkGSp1D/instagram.png" alt="instagram" style="vertical-align:top;">
   </a> 
   <a href="https://twitter.com/bjsnk">
-    <img align="left" width="80px" src="https://i.ibb.co/ZcFHDpv/twitter.png" alt="twitter" style="vertical-align:top;">
+    <img align="center" width="80px" src="https://i.ibb.co/ZcFHDpv/twitter.png" alt="twitter" style="vertical-align:top;">
   </a>
   <a href="https://www.linkedin.com/in//juliabarruda">
     <img width="80px" src="https://i.ibb.co/RyZx12b/linkedin.png" alt="linkedin" style="vertical-align:top;">
   </a>
-  
+ </div>
 
 
 
