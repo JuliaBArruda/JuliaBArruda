@@ -29,7 +29,7 @@ Tenho 27 anos, moro em Recife-PE, sou apaixonada por técnologia e felinos!  Sou
 
 
 ### 🖥️ Tecnologias e Ferramentas: 
-<img width="300px" align="left" src="https://i.ibb.co/vH0ZHmR/photo-2023-07-26-16-07-27.jpg">
+<img width="250px" align="left" src="https://i.ibb.co/8jVRqYx/photo-2023-07-26-16-07-27-removebg-preview.png">
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-plain.svg" title = "PHP"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title = "JAVASCRIPT"/></code>
 <code><img width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" title = "HTML"/></code>
