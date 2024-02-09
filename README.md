@@ -20,7 +20,7 @@
 
 ### Hello  👋
 
-Tenho 27 anos, moro em Recife-PE, sou apaixonada por técnologia e felinos!  Sou aventureira no universo da programação, criadora oficial de bugs, quanto mais eu aprendo e passo raiva... mais eu amo tudo isso! 💙
+Tenho 28 anos, moro em Recife-PE, sou apaixonada por técnologia e felinos!  Sou aventureira no universo da programação, criadora oficial de bugs, quanto mais eu aprendo e passo raiva... mais eu amo tudo isso! 💙
 
 <p align="center">
   <img src="https://super.abril.com.br/wp-content/uploads/2016/09/super_imggato_digitando_0.gif" width="350">
